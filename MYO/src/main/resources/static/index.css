@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
+body{
+	margin: 0;
+	background-color: #F2F2F2;
+}
+
+header{
+	background-color: #AEAAAA;
+	height: 60px;
+}
+
 h1{
-	color: red;
+	font-size: 1.0rem;
+	font-weight: normal;
 }
